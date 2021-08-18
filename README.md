@@ -1,6 +1,4 @@
-# sqlalchemy-challenge
-
-This repository was created for DU Data Analytics Bootcamp homework after an introduction to sqlalchemy and flask.
+# Hawaii Temperature Exploration with SQLAlchemy and Flask
 
 In this challenge I use the sqlalchemy library in jupyter notebook to connect and map a sqlite database.  The database consisted of temperature and precipitation data from 9 weather stations in Hawaii.  Once the conncetion was made, I was able to use pandas to create a couple of graphics showing precipitation and temperature trends. 
 
